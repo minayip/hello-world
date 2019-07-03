@@ -2,4 +2,4 @@
 
 Hello Earthlings (:
 
-From alphacentauri-001
+From Alpha Centauri
